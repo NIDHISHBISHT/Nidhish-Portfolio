@@ -28,15 +28,15 @@ const HeroStyles = styled.div`
     }
     .hero__name {
       font-size: 7rem;
-      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
+      font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS',
         sans-serif;
       color: white;
     }
   }
   .hero__img {
-    max-width: 900px;
+    max-width: 1000px;
     width: 100%;
-    height: 600px;
+    height: 800px;
     margin: 0 auto;
     border: 2px solid grey;
   }
