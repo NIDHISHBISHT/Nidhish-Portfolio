@@ -7,6 +7,7 @@ import Button from './Button';
 
 const AboutSectionStyle = styled.div`
   padding: 10rem 0;
+  /* background-color: royalblue; */
   .container {
     display: flex;
     align-items: center;
